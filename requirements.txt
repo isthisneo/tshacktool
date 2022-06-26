@@ -1,0 +1,6 @@
+requests
+colorama
+os-sys
+pyfiglet
+sockets
+futures

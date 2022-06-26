@@ -1,0 +1,4 @@
+pyfiglet
+os-sys
+socket
+threading
