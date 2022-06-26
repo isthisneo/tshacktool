@@ -9,7 +9,7 @@ asciiBanner = """
     Neo | https://github.com/isthisneo | Türk Siber Hack
 """
 
-
+print(asciiBanner)
 
 
 os.system("apt install python3-pip")
