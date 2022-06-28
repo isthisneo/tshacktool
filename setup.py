@@ -12,5 +12,4 @@ asciiBanner = """
 print(asciiBanner)
 
 
-os.system("apt install python3-pip")
 os.system("python3 -m pip install -r requirements.txt")
