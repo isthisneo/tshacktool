@@ -1,5 +1,4 @@
 import os 
-import pyfiglet
 import time
 from colorama import Fore
 from module import handler
